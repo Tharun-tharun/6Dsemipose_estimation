@@ -1,0 +1,10 @@
+visualizations
+work_dir
+results
+*.ipynb
+evaluate_pose.py
+evaluate.py
+train_pose.py
+# *.sh
+eval.sh
+eval_wild6d.sh
